@@ -1,0 +1,1 @@
+console.log("ověření že všechno funguje doma")
