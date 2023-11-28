@@ -28,5 +28,56 @@
         <li>Září</li>
         <li>Listopad</li>
     </ul>
+
+    <form action="data.html" method="get">
+        <table>
+            <thead>
+                <tr><th colspan="2">Registrace</th></tr>
+            </thead>
+            <tr>
+                <th><label for="Jméno">Jméno:</label></th>
+                <th><input id="Jméno" type="text" name="Jméno" required placeholder="Jméno "></th>
+            </tr>
+            <tr>
+                <th><label for="Heslo">Heslo:</label></th>
+                <th><input id="heslo" type="password" name="Heslo" required placeholder="Heslo"></th>
+            </tr>
+            <tr>
+                <th><label for="Věk">Věk:</label></th>
+                <th><input type="number" name="Věk" required min="0" max="150" placeholder="Věk" style="width: 390px;"></th>
+            </tr>
+            <tr>
+                <th><label for="Email">Email:</label></th>
+                <th><input type="email" name="email" required placeholder="Email@....."></th>
+            </tr>
+            <tr>
+                <th><label for="student">Student:</label></th>
+                <th><input id="student" type="checkbox" name="Student" value="true"></th>
+            </tr>
+            <tr>
+                <th><label for="Pohlaví">Pohlaví:</label></th>
+                <th>
+                    <label for="muz">Muž:</label>
+                    <input id="muz" type="radio" name="Pohlaví" value="muz">
+                    <label for="zena">Žena:</label>
+                    <input id="zena" type="radio" name="Pohlaví" value="zena">
+                </th>
+            </tr>
+            <tr>
+                <th><label for="Vzdelani">Vzdělání:</label></th>
+                <th><select name="Vzdelani" id="vzdelani">
+                    <option value="Mgr">Magisterské</option>
+                    <option value="Bc">Bakalářské</option>
+                    <option value="Dr">Doktorské</option>
+                </select></th>
+            </tr>
+            <tr>
+                <th><label for="color">Barva:</label></th>
+                <th><input type="color" name="barva"></th>
+            </tr>
+
+        </table>
+        <div> <input type="submit" value="Registrace"></div>
+    </form>
 </body>
 </html>
