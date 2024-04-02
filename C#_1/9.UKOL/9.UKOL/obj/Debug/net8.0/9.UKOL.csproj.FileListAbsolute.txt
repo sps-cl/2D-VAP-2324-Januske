@@ -1,0 +1,15 @@
+C:\Users\janus\Documents\GitHub\2D-VAP-2324-Januske\C#_1\9.UKOL\9.UKOL\bin\Debug\net8.0\9.UKOL.exe
+C:\Users\janus\Documents\GitHub\2D-VAP-2324-Januske\C#_1\9.UKOL\9.UKOL\bin\Debug\net8.0\9.UKOL.deps.json
+C:\Users\janus\Documents\GitHub\2D-VAP-2324-Januske\C#_1\9.UKOL\9.UKOL\bin\Debug\net8.0\9.UKOL.runtimeconfig.json
+C:\Users\janus\Documents\GitHub\2D-VAP-2324-Januske\C#_1\9.UKOL\9.UKOL\bin\Debug\net8.0\9.UKOL.dll
+C:\Users\janus\Documents\GitHub\2D-VAP-2324-Januske\C#_1\9.UKOL\9.UKOL\bin\Debug\net8.0\9.UKOL.pdb
+C:\Users\janus\Documents\GitHub\2D-VAP-2324-Januske\C#_1\9.UKOL\9.UKOL\obj\Debug\net8.0\9.UKOL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\janus\Documents\GitHub\2D-VAP-2324-Januske\C#_1\9.UKOL\9.UKOL\obj\Debug\net8.0\9.UKOL.AssemblyInfoInputs.cache
+C:\Users\janus\Documents\GitHub\2D-VAP-2324-Januske\C#_1\9.UKOL\9.UKOL\obj\Debug\net8.0\9.UKOL.AssemblyInfo.cs
+C:\Users\janus\Documents\GitHub\2D-VAP-2324-Januske\C#_1\9.UKOL\9.UKOL\obj\Debug\net8.0\9.UKOL.csproj.CoreCompileInputs.cache
+C:\Users\janus\Documents\GitHub\2D-VAP-2324-Januske\C#_1\9.UKOL\9.UKOL\obj\Debug\net8.0\9.UKOL.sourcelink.json
+C:\Users\janus\Documents\GitHub\2D-VAP-2324-Januske\C#_1\9.UKOL\9.UKOL\obj\Debug\net8.0\9.UKOL.dll
+C:\Users\janus\Documents\GitHub\2D-VAP-2324-Januske\C#_1\9.UKOL\9.UKOL\obj\Debug\net8.0\refint\9.UKOL.dll
+C:\Users\janus\Documents\GitHub\2D-VAP-2324-Januske\C#_1\9.UKOL\9.UKOL\obj\Debug\net8.0\9.UKOL.pdb
+C:\Users\janus\Documents\GitHub\2D-VAP-2324-Januske\C#_1\9.UKOL\9.UKOL\obj\Debug\net8.0\9.UKOL.genruntimeconfig.cache
+C:\Users\janus\Documents\GitHub\2D-VAP-2324-Januske\C#_1\9.UKOL\9.UKOL\obj\Debug\net8.0\ref\9.UKOL.dll

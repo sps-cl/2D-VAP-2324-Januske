@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\janus\\Documents\\GitHub\\2D-VAP-2324-Januske\\C#_1\\9.UKOL\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{629050F0-EE52-43B4-A17A-BA97541A74A6}|9.UKOL\\9.UKOL.csproj|c:\\users\\janus\\documents\\github\\2d-vap-2324-januske\\c#_1\\9.ukol\\9.ukol\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{629050F0-EE52-43B4-A17A-BA97541A74A6}|9.UKOL\\9.UKOL.csproj|solutionrelative:9.ukol\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\janus\\Documents\\GitHub\\2D-VAP-2324-Januske\\C#_1\\9.UKOL\\9.UKOL\\Program.cs",
+              "RelativeDocumentMoniker": "9.UKOL\\Program.cs",
+              "ToolTip": "C:\\Users\\janus\\Documents\\GitHub\\2D-VAP-2324-Januske\\C#_1\\9.UKOL\\9.UKOL\\Program.cs",
+              "RelativeToolTip": "9.UKOL\\Program.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAC0AAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-02T14:06:29.999Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
