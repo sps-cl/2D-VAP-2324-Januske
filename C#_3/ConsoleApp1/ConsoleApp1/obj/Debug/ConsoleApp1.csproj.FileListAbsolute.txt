@@ -1,0 +1,7 @@
+C:\Users\janus\Documents\GitHub\2D-VAP-2324-Januske\C#_3\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\janus\Documents\GitHub\2D-VAP-2324-Januske\C#_3\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\janus\Documents\GitHub\2D-VAP-2324-Januske\C#_3\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\janus\Documents\GitHub\2D-VAP-2324-Januske\C#_3\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.AssemblyReference.cache
+C:\Users\janus\Documents\GitHub\2D-VAP-2324-Januske\C#_3\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\janus\Documents\GitHub\2D-VAP-2324-Januske\C#_3\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\janus\Documents\GitHub\2D-VAP-2324-Januske\C#_3\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
